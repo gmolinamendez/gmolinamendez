@@ -16,7 +16,7 @@
 <br>
 </div>
 
-### Current Focus
+<h3 align="center">Current Focus</h3>
 
 * **Data Engineering:** Designing data pipelines, relational models, analytics solutions, and dependable data platforms that transform raw information into useful insights.
 * **Cloud Engineering:** Building secure, scalable, and cost-conscious solutions across AWS and Google Cloud, supported by Linux-based development environments and modern cloud services.
@@ -25,9 +25,9 @@
 
 <br>
 
-### My Tools
+<h3 align="center">My Tools</h3>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="33%" align="center" valign="top">
       <h4>Data and AI</h4>
@@ -67,7 +67,7 @@
 
 <br>
 
-### Philosophy
+<h3 align="center">Philosophy</h3>
 
 - I believe strong engineering begins with attention to detail. I approach every project by understanding the problem deeply, evaluating the trade-offs, and finding the most effective and optimized solution rather than settling for the first one that works.
 
@@ -75,13 +75,13 @@
 
 <br>
 
-### What I Build
+<h3 align="center">What I Build</h3>
 
 - I work on data platforms, cloud-native systems, AI-enabled applications, analytics solutions, and full-stack software. My goal is to deliver technology that is practical, scalable, maintainable, and aligned with the real needs behind each project.
 
 <br>
 
-### Contact
+<h3 align="center">Contact</h3>
 
 <div align="center">
 
