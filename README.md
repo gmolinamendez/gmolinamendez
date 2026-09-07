@@ -89,6 +89,9 @@
 
 <br>
 
-<img src="https://img.shields.io/github/followers/gmolinamendez?style=social" alt="GitHub followers" />
+<a href="https://github.com/gmolinamendez?tab=followers" target="_blank">
+    <img src="https://img.shields.io/github/followers/gmolinamendez?style=social" alt="GitHub Followers">
+</a>
+
 
 </div>
