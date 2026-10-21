@@ -1,7 +1,3 @@
-![My GitHub Activity](metrics.classic.svg)
-
-<!--
-
 <div align="center">
 
 <img src="https://avatars.githubusercontent.com/u/68155357?v=4" width="40" height="40" alt="Guillermo Molina - Data, Cloud, and AI Engineer" />
@@ -99,4 +95,3 @@
 
 
 </div>
---!>
